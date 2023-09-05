@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Ishan 👋
 
-<!--
-**ishan-backend/ishan-backend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate software engineer enriched with problem solving skills.
 
-Here are some ideas to get you started:
+## 🔭 Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Key Skills
+
+## 🚀 Recent Achievements
+
+## 📚 Education
+
+## 💬 Let's Connect
+
+## 📫 Contact
